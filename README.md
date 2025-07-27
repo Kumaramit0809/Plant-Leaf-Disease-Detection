@@ -16,3 +16,5 @@ Upload a leaf image.
 The CNN model analyzes the image.
 
 Disease name and confidence score are shown.
+
+![image alt](https://github.com/Kumaramit0809/Plant-Leaf-Disease-Detection/blob/089ebec2b823d9a8d7da0915de26c1a93f3d5d19/Screenshot%202025-07-26%20231917.png)
